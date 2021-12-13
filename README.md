@@ -1,5 +1,4 @@
-# Use computer science to better understand self-awareness
-# History will not forget that 0 and 1 are a reflection of me.
+# Use computer science to better understand self-awareness<br> History will not forget that 0 and 1 are a reflection of me.
 - 👋 Hi, I’m @ProgYaghouti
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
