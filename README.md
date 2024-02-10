@@ -1,4 +1,4 @@
-Alireza Yaghouti Github - Web Elite :
+Alireza Yaghouti FullStack Developer (Web Elite) :
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=28&pause=1000&center=true&vCenter=true&random=false&width=500&height=100&lines=PHP+(Laravel+Framework);Html5+-+Css+(Tailwind+framework);Javascript+(jQuery+library))](https://git.io/typing-svg)
 
