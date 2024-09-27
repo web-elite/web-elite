@@ -6,3 +6,6 @@ Alireza Yaghouti FullStack Developer (Web Elite) :
 👋 Hi, I’m Alireza Yaghouti, FullStack Developer.
 
 `𝖌𝖔𝖉'𝖘 𝖕𝖑𝖆𝖓`
+
+
+![Visitor Count](https://profile-counter.glitch.me/web-elite/count.svg)
