@@ -1,4 +1,4 @@
-👋 Hi, I’m Alireza Yaghouti (Web Elite), Senior Back-end Developer  :
+👋 Hi, I’m Alireza Yaghouti (Web Elite), Senior Developer (Full-Stack) :
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=38&pause=1000&center=true&vCenter=true&width=600&height=100&lines=PHP+%2B+Laravel+%2B+NodeJS;HTML+%2B+CSS+%2B+JS;Vue+%2B+Tailwind3+%2B+jQuery+%2B+Alpine.js)](https://git.io/typing-svg)
 
