@@ -1,6 +1,5 @@
 `𝖌𝖔𝖉'𝖘 𝖕𝖑𝖆𝖓`
-<h3 align="center">Hi 👋, I'm Alireza Yaghouti (Web Elite), Senior Developer (Full-Stack)</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-elite&label=Profile%20views&color=0e75b6&style=flat" alt="web-elite" /> </p>
+<h3>Hi 👋, I'm Alireza Yaghouti (Web Elite), Senior Developer (Full-Stack)</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=38&pause=1000&center=true&vCenter=true&width=600&height=100&lines=PHP+%2B+Laravel+%2B+NodeJS;HTML+%2B+CSS+%2B+JS;Vue+%2B+Tailwind3+%2B+jQuery+%2B+Alpine.js)](https://git.io/typing-svg)
 
@@ -9,6 +8,8 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=web-elite" alt="web-elite" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-elite&label=Profile%20views&color=305cde&style=flat" alt="web-elite" /> </p>
 
 - 🔭 I’m currently working on [CopyTool](https://github.com/web-elite/copytool)
 
