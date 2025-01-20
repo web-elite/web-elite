@@ -30,12 +30,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/webelitee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/webelitee" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/web_elite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/web_elite" height="30" width="40" /></a>
+<a href="https://codepen.io/webelitee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/webelitee" height="30" width="40" /></a>
+<a href="https://dev.to/web_elite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/web_elite" height="30" width="40" /></a>
 <a href="https://twitter.com/alirezayaghouti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alirezayaghouti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/webelite/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/webelite/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/webelite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/webelite/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14011617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14011617" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/webelitee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/webelitee" height="30" width="40" /></a>
+<a href="https://instagram.com/webe__lite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/webelitee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
