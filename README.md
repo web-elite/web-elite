@@ -14,15 +14,15 @@
 
 - 🌱 I’m currently learning **Inertia.js**
 
-- 👨‍💻 All of my projects are available at instagram [web__elite](instagram.com/u/web__elite)
+- 👨‍💻 All of my projects are available at instagram [web__elite](https://instagram.com/u/web__elite)
 
-- 📝 I regularly write articles on [dev.to/web_elite](dev.to/web_elite)
+- 📝 I regularly write articles on [dev.to/web_elite](https://dev.to/web_elite)
 
 - 💬 Ask me about **PHP, Wordpress, Laravel 11**
 
 - 📫 How to reach me **webelitee@gmail.com**
 
-- 📄 Know about my experiences [webelitee.ir](webelitee.ir)
+- 📄 Know about my experiences [webelitee.ir](https://webelitee.ir)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
