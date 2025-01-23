@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-elite&show_icons=true&locale=en" alt="web-elite" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-elite&" alt="web-elite" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-elite&theme=dracula&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="web-elite" /></p>
