@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on [CopyTool](https://github.com/web-elite/copytool)
 
-- 🌱 I’m currently learning **Inertia.js**
-
 - 👨‍💻 All of my projects are available at instagram [web__elite](https://instagram.com/u/web__elite)
 
 - 📝 I regularly write articles on [dev.to/web_elite](https://dev.to/web_elite)
