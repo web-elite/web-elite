@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [dev.to/web_elite](https://dev.to/web_elite)
 
-- 💬 Ask me about **PHP, Wordpress, Laravel 11**
+- 💬 Ask me about **PHP, Wordpress, Laravel 12**
 
 - 📫 How to reach me **webelitee@gmail.com**
 
