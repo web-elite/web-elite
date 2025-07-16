@@ -1,53 +1,155 @@
-`𝖌𝖔𝖉'𝖘 𝖕𝖑𝖆𝖓`
-<h3>Hi 👋, I'm Alireza Yaghouti (Web Elite), Mid-level Developer (Full-Stack)</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="40" alt="wordpress logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=38&pause=1000&center=true&vCenter=true&width=600&height=100&lines=PHP+%2B+Laravel+%2B+NodeJS;HTML+%2B+CSS+%2B+JS;Vue+%2B+Tailwind3+%2B+jQuery+%2B+Alpine.js)](https://git.io/typing-svg)
+###
 
-> # Use computer science to better understand self-awareness<br> History will not forget that 0 and 1 are a reflection of me.
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-elite&label=Profile%20views&color=305cde&style=flat" alt="web-elite" /> </p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Honk&pause=100&center=true&multiline=true&repeat=false&width=900&height=100&size=40&lines=Hi%2C+I'm+Alireza+Yaghouti;Mid-level+Developer+(Full-Stack)" alt="AlirezaYaghouti" />
+</div>
 
-- 🙌 Co-founder of [BiscoWeb](https://biscoweb.com)
+###
 
-- 🔭 I’m currently working on [CopyTool](https://github.com/web-elite/copytool)
+<p align="left">🙌 Co-founder of BiscoWeb<br><br>🔭 I’m currently working on CopyTool<br><br>👨‍💻 All of my projects are available at instagram web__elite<br><br>📝 I regularly write articles on dev.to/web_elite<br><br>💬 Ask me about PHP, Wordpress, Laravel 12<br><br>📫 How to reach me webelitee@gmail.com<br><br>📄 Know about my experiences webelitee.ir</p>
 
-- 👨‍💻 All of my projects are available at instagram [web__elite](https://instagram.com/u/web__elite)
+###
 
-- 📝 I regularly write articles on [dev.to/web_elite](https://dev.to/web_elite)
+<p align="left">Use computer science to better understand self-awareness<br>History will not forget that 0 and 1 are a reflection of me.</p>
 
-- 💬 Ask me about **PHP, Wordpress, Laravel 12**
+###
 
-- 📫 How to reach me **webelitee@gmail.com**
+<h2 align="center">🔧 Tools i Use</h2>
 
-- 📄 Know about my experiences [webelitee.ir](https://webelitee.ir)
+###
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=alpinejs" height="35" alt="alpinelinux logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=maven" height="35" alt="apachemaven logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="arduino logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="35" alt="cloudflare logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=electron" height="35" alt="electron logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="35" alt="nginx logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="35" alt="phpstorm logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="35" alt="powershell logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=regex" height="35" alt="regex logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="35" alt="stackoverflow logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=svg" height="35" alt="svg logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=symfony" height="35" alt="symfony logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/webelitee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/webelitee" height="30" width="40" /></a>
-<a href="https://dev.to/web_elite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/web_elite" height="30" width="40" /></a>
-<a href="https://twitter.com/alirezayaghouti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alirezayaghouti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/webelite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/webelite/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14011617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14011617" height="30" width="40" /></a>
-<a href="https://instagram.com/webe__lite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/webelitee" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://laravel.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"> </a>
-  <a href="https://symfony.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/b9afd365f87fd3471d2d1d90b3fcd313989f6e0b3765f0a015e72a0a397bf532/68747470733a2f2f73796d666f6e792e636f6d2f6c6f676f732f73796d666f6e795f626c61636b5f30332e737667" alt="symfony" width="40" height="40" data-canonical-src="https://symfony.com/logos/symfony_black_03.svg" style="max-width: 100%;"> </a>
-  <a href="https://cloud.google.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/d124825d0e0968226011ee97e6001d44a4844a75cc2a1a058cde8bf7791bea97/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="gcp" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="max-width: 100%;"> </a>
-</p>
+<h2 align="center">👀 Read me</h2>
 
+###
 
+<div align="center">
+  <a href="https://linkedin.com/in/webelite" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/alirezayaghouti" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="85" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://dev.to/web_elite" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="85" height="35" alt="devto logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="85" height="35" alt="codepen logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=web-elite&show_icons=true&locale=en&layout=compact" alt="web-elite" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-elite&show_icons=true&locale=en" alt="web-elite" /></p>
+<h2 align="center">📩 Contact me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=web-elite&hide_border=true" alt="web-elite" /></p>
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="85" height="35" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="85" height="35" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
+</div>
+
+###
+
+<h2 align="center"></h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=web-elite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=web-elite&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=web-elite&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=12&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
+</div>
+
+###
+
+<h2 align="center"></h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/web-elite/web-elite/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/web-elite/web-elite/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/web-elite/web-elite/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=web-elite.web-elite&left_color=black&right_color=forestgreen&left_text=Views"  />
+</div>
+
+###
+
+<div align="center">
+𝖌𝖔𝖉'𝖘 𝖕𝖑𝖆𝖓
+</div>
