@@ -93,6 +93,22 @@
 ###
 
 <div align="center">
+  
+</div>
+
+###
+
+<h2 align="center">👀 You can find me on:</h2>
+
+###
+
+<div align="center">
+  <a href="https://wa.me/989155909469?text=Hi%2C%20im%20here%20from%20github%20page" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="85" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:webelitee@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
+  </a>
   <a href="https://linkedin.com/in/webelite" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="35" alt="linkedin logo"  />
   </a>
@@ -102,19 +118,10 @@
   <a href="https://dev.to/web_elite" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="85" height="35" alt="devto logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="85" height="35" alt="codepen logo"  />
-</div>
-
-###
-
-<h2 align="center">📩 Contact me</h2>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="85" height="35" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="85" height="35" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://codepen.io/webelitee" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="85" height="35" alt="codepen logo"  />
+  </a>
 </div>
 
 ###
