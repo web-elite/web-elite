@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Honk&pause=100&center=true&multiline=true&repeat=false&width=900&height=100&size=40&lines=Hi%2C+I'm+Alireza+Yaghouti;Mid-level+Developer+(Full-Stack)" alt="AlirezaYaghouti" />
+<img src="https://readme-typing-svg.demolab.com?font=Honk&pause=100&center=true&multiline=true&repeat=false&width=900&height=100&size=40&lines=Hi%2C+I'm+Alireza;Mid-level+Developer+(Full-Stack)" alt="AlirezaYaghouti" />
 </div>
 
 ###
