@@ -123,20 +123,19 @@
 
 ###
 
-<h2 align="center"></h2>
+<h2 align="center">📊 My Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=web-elite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=web-elite&rank_icon=github&show_icons=true&include_all_commits=true&theme=codeSTACKr" height="180" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=web-elite&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=web-elite&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=12&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=web-elite&layout=compact&langs_count=8&theme=one_dark_pro" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="center"></h2>
+<h2 align="center">💪 My Activity</h2>
 
 ###
 
