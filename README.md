@@ -5,7 +5,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="40" alt="wordpress logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/Tall-Stack-brightgreen?style=for-the-badge" height="40" alt="tall stack logo"  />
 </div>
 
 ###
@@ -93,6 +93,9 @@
 ###
 
 <div align="center">
+  <a href="https://t.me/webelitee" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="35" alt="Telegram logo"  />
+  </a>
   <a href="https://wa.me/989155909469?text=Hi%2C%20im%20here%20from%20github%20page" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="35" alt="whatsapp logo"  />
   </a>
