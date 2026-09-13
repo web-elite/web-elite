@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🙌 Co-founder of BiscoWeb<br><br>🔭 I’m currently working on CopyTool<br><br>👨‍💻 All of my projects are available at instagram web__elite<br><br>📝 I regularly write articles on dev.to/web_elite<br><br>💬 Ask me about PHP, Wordpress, Laravel 12<br><br>📫 How to reach me webelitee@gmail.com<br><br>📄 Know about my experiences webelitee.ir</p>
+<p align="left"><br>📝 I regularly write articles on dev.to/web_elite<br><br>💬 Ask me about PHP, Wordpress, Laravel 12<br><br>📫 How to reach me webelitee@gmail.com<br><br>📄 Know about my experiences webelitee.ir</p>
 
 ###
 
